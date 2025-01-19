@@ -27,7 +27,7 @@ This project explores the dynamics of the ride-sharing industry, focusing on Ube
 ---
 
 ## Dataset
-- **Source**: Kaggle
+- **Source**: [Uber and Lyft Dataset - Boston, MA](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/data)
 - **Scope**: Uber and Lyft ride data (November–December 2018)
 - **Size**: 693,071 rows and 57 columns
   - Numerical: 46 features
